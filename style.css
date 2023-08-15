@@ -241,5 +241,6 @@ body {
     position: absolute;
     background-color: var(--pale-blue);
     bottom: 0.6rem;
+    z-index: -100;
   }
 }
